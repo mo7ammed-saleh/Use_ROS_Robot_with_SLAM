@@ -19,12 +19,17 @@
 
 4. Launch ROS
     - `roslaunch warehouse_simulation warehouse_simulation.launch`
-    - <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Robot%20Environment.png"/>
+     <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Robot%20Environment.png"/>
      </p>
+     
      
 5. Autonomous Navigation by setting a target points in RVIZ and the robot will navigate to the location in gazebo. 
    - click 2d nav goal button on rviz and then click any points you want on the map.
-   - <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Point%20navigation.gif"/>
+   - 
+   <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Navigation.png"/>
+     </p>
+   -
+   <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Point%20navigation.gif"/>
      </p>
      
 6. Refrences: (https://github.com/Amg0z/warehouse_simulation_toolkit).
