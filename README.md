@@ -10,7 +10,7 @@
 
 2. Install ROS package `sudo apt-get install ros-melodic-hector-trajectory-server ros-melodic-slam-gmapping ros-melodic-navigation
 `
-3.Clone repository
+3.Clone repository 
    - `cd ~/catkin_ws/src`
    - `git clone https://github.com/mo7ammed-saleh/warehouse_simulation_toolkit`
    - `cd ..`
