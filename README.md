@@ -32,5 +32,6 @@
    <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Point%20navigation.gif"/>
    </p>
      
-6. Refrences: (https://github.com/Amg0z/warehouse_simulation_toolkit).
-7. Task is Done :heart_eyes:
+6. When the map is created successfully in Rviz, open new terminal and save it using the command `rosrun map_server map_saver -f ~/map`     
+7. Refrences: (https://github.com/Amg0z/warehouse_simulation_toolkit).
+8. Task is Done :heart_eyes:
