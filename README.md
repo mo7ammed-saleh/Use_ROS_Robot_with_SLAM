@@ -27,10 +27,10 @@
    - click 2d nav goal button on rviz and then click any points you want on the map.
    - 
    <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Navigation.png"/>
-     </p>
-   -
+   </p>
+   
    <p align='center'><img width="80%" src="https://github.com/mo7ammed-saleh/Use_ROS_Robot_with_SLAM/blob/main/Point%20navigation.gif"/>
-     </p>
+   </p>
      
 6. Refrences: (https://github.com/Amg0z/warehouse_simulation_toolkit).
 7. Task is Done :heart_eyes:
